@@ -1,0 +1,9 @@
+com\example\customermanagementservice\config\RestTemplateConfig.class
+com\example\customermanagementservice\service\CustomerServiceImpl.class
+com\example\customermanagementservice\model\Customer.class
+com\example\customermanagementservice\service\ExceptionHandler.class
+com\example\customermanagementservice\CustomerManagementServiceApplication.class
+com\example\customermanagementservice\service\CustomerController.class
+com\example\customermanagementservice\repository\CustomerRepository.class
+com\example\customermanagementservice\service\CustomerService.class
+com\example\customermanagementservice\service\GlobalExceptionHandler.class
